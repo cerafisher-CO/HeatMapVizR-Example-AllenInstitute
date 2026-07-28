@@ -5,7 +5,7 @@ Code modified from original by John MacKintosh and sourced from the R Graph Gall
 
 ### Starter Environment
 
-**Python and R (Jupyterlab/RStudio) (3.12.8, R 4.4.2, JupyterLab 4.3.5, RStudio 2024.12.1-563)**
+**Python + R (Python 3.12.4, R 4.4.2, JupyterLab, RStudio)**
 
 ### R Packages 
 
